@@ -1,0 +1,20 @@
+    instalar nanoid de npm npm i nanoid ;
+
+    importar a tu archivo con import { nanoid } from 'nanoid'
+
+    uso:
+
+    sustituir
+
+    setTareas([...tareas, { id: shortid.generate(), NombreTarea: tarea }]);
+
+    por
+
+    setTareas([...tareas, { id: nanoid(), NombreTarea: tarea }]);
+
+
+    Si deseas hacer el identificador más corto pásale 10 como argumento
+
+    Asi
+
+    setTareas([...tareas, { id: nanoid(10), NombreTarea: tarea }]);
