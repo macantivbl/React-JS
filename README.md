@@ -3,7 +3,7 @@
 
 ## Inicializar Reactjs
 ```<node.js>
-npm install ;
+npx create-react-app mi-aplicacion;
 ```
 ## Ejecutar Servidor
 
