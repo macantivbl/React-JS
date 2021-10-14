@@ -22,7 +22,7 @@ npm i nanoid ;
  
 ### Rutas
 
-*Instalacion
+* Instalacion
 ```<node.js>
 npm install react-router-dom;
 ```
