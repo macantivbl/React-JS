@@ -20,7 +20,12 @@ npm i nanoid ;
 ```
  pagina de nanoid [https://www.npmjs.com/package/nanoid](nanoid)
  
- 
+### Rutas
+
+*Instalacion
+```<node.js>
+npm install react-router-dom;
+```
 
 
 
