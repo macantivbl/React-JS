@@ -34,13 +34,13 @@ npm i nanoid ;
 npm install react-router-dom;
 ```
 
+pagina de Router [https://reactrouter.com/web/guides/quick-start](route)
+
 ### Firebase database
 
 ```<node.js>
 npm i firebase@8.7.1
 ```
-
-pagina de Router [https://reactrouter.com/web/guides/quick-start](route)
 
 ## Posibles errores
 
